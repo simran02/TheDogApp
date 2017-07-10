@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "378042317510",
+    "firebase_url": "https://the-dog-app.firebaseio.com",
+    "project_id": "the-dog-app",
+    "storage_bucket": "the-dog-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378042317510:android:9fa9cb2ed60a4dbe",
+        "android_client_info": {
+          "package_name": "com.skarora.thedogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378042317510-qq6hivd9heqmluigaef6kljpv1kprjpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB8FxwXGPqxBPiqljYzA1IFWL_xGsxFpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
